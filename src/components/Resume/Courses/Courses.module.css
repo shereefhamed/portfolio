@@ -1,0 +1,12 @@
+.Courses {
+    margin: 36px 0;
+}
+
+.CoursesCard {
+    border-left: 3px solid #EF8354;
+    height: 135px;
+}
+
+.CoursesCard:hover {
+    border-left: 3px solid #EF8354;
+}

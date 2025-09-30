@@ -1,0 +1,54 @@
+.ProjectDetails {
+    padding: 36px 0;
+    position: relative;
+}
+
+.ProjectImage {
+    height: 600px;
+    text-align: center;
+}
+
+.ProjectImage img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.Links {
+    margin: 64px 0;
+}
+
+.Links a {
+    margin: 16px;
+    display: inline-block;
+}
+
+.ProjectNavigator {
+    position: absolute;
+    right: 0;
+    bottom: 16px;
+}
+
+.Prev,
+.Next {
+    background-color: #f8f9fa;
+    color: black;
+    color: black;
+    display: inline-block;
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    text-align: center;
+    line-height: 36px;
+    margin: 0 8px
+}
+
+.CallToAction {
+    background-color: #535bf2;
+    padding: 36px 0;
+}
+
+.CallToAction {
+    text-align: center;
+    color: white;
+}

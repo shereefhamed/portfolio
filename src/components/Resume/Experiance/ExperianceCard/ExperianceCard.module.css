@@ -1,0 +1,9 @@
+.ExperianceCard {
+    border-left: 3px solid #535bf2;
+    margin-bottom: 16px;
+
+}
+
+.ExperianceCard:hover {
+    border-left: 3px solid #535bf2;
+}

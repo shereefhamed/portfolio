@@ -1,0 +1,12 @@
+.Education {
+    margin: 36px 0;
+}
+
+.EducationCard {
+    border-left: 3px solid #05bce6;
+
+}
+
+.EducationCard:hover {
+    border-left: 3px solid #05bce6;
+}

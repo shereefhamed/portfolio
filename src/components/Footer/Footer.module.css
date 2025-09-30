@@ -1,0 +1,18 @@
+.Footer {
+    background-color: #f7f7f7;
+    padding: 16px 0;
+    box-shadow: 0 10px 22px #eeeeee;
+}
+
+.FooterCotent {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media(min-width: 576px) {
+    .FooterCotent {
+        justify-content: space-between;
+    }
+}

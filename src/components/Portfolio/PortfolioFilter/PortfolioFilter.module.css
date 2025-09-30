@@ -1,0 +1,20 @@
+.FilterItems {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.FilterItems li {
+    padding: 0 16px;
+    cursor: pointer;
+}
+
+.FilterItems li.Active{
+    color: white;
+    background-color: #3D3D89;
+    border-radius: 6px;
+    padding: 8px;
+}

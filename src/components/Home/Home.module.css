@@ -1,0 +1,42 @@
+.Hero {
+    align-items: center;
+}
+
+.HeroDescription {
+    padding-top: 50px;
+}
+
+.HeroImage img {
+    width: 100%;
+}
+
+.TypewriterText {
+    margin-top: 0;
+    font-size: 2rem;
+}
+
+.SubTitle {
+    margin-bottom: 0;
+}
+
+.ActionButtons {
+    margin: 36px 0;
+}
+
+.Badge {
+    background-color: #05bce6;
+    padding: 8px;
+    color: white;
+    border-radius: 6px;
+    display: inline;
+}
+
+@media(min-width: 576px) {
+    .TypewriterText {
+        font-size: 3rem;
+    }
+
+    .HeroDescription {
+        padding: 0;
+    }
+}

@@ -1,0 +1,30 @@
+.Contact {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    padding: 128px 0;
+}
+
+.ContactForm h1 {
+    margin-bottom: 4px;
+}
+
+.SocialIcons {
+    margin-bottom: 16px;
+}
+
+.ContactForm button {
+    display: block;
+    width: 100%;
+}
+
+.RecaptchaContainer {
+    margin-bottom: 16px;
+}
+
+.ErrorMessage {
+    text-align: left;
+    display: block;
+    color: #bf2733;
+
+}

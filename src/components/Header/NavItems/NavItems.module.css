@@ -1,0 +1,13 @@
+.MainNavItems{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+@media(min-width: 576px){
+    .MainNavItems{
+        flex-direction: row;
+    }
+}

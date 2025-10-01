@@ -1,0 +1,1 @@
+import{j as o,L as t}from"./index-CcCeMTF1.js";const s="_PageNotFound_rtcyb_1",e={PageNotFound:s},r=n=>o.jsxs("div",{className:e.PageNotFound,children:[o.jsx("h1",{children:"404"}),o.jsx("h2",{children:"Page Not Found"}),o.jsx(t,{to:"/",className:"button button-primary",children:"Go back home"})]});export{r as default};

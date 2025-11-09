@@ -1,0 +1,1 @@
+import{j as o}from"./index-DgoTP8JH.js";const e="_LoaderContainer_1h1gb_1",a="_Loader_1h1gb_1",r={LoaderContainer:e,Loader:a},t=n=>o.jsx("div",{className:r.LoaderContainer,children:o.jsx("span",{className:r.Loader})});export{t as S};

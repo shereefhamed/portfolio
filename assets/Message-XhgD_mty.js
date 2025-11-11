@@ -1,0 +1,1 @@
+import{u as o,r as t,M as u,j as n}from"./index-DLZZVuXp.js";const l=c=>{o();const{message:e,clearMessage:a}=t.useContext(u);let s=["alert"];return t.useEffect(()=>{if(e){const r=setTimeout(()=>a(),4e3);return()=>clearTimeout(r)}},[e]),e?(e.status?s.push("alert-success"):s.push("alert-danger"),n.jsx("div",{className:s.join(" "),children:e.message})):null};export{l as M};

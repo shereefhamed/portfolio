@@ -1,0 +1,1 @@
+import{j as r}from"./index-10DEpnBJ.js";import{S as o}from"./ServiceForm-lTtzyJKd.js";import"./index.esm-BCfdtMUu.js";import"./Spinner-Cf75KsG3.js";import"./services-BayDF2xk.js";import"./messages-DTRCACDI.js";import"./Message-Cc8iC8-L.js";const c=t=>r.jsx(o,{});export{c as default};

@@ -1,0 +1,1 @@
+import{j as r}from"./index-D6PE0vbY.js";import{P as o}from"./ProjectForm-C0uoDng7.js";import"./index.esm-BZ5lWKU1.js";import"./hoist-non-react-statics.cjs-B9WbN-T1.js";import"./projects-C7qPQKCP.js";import"./Spinner-Ca1n2eop.js";const a=t=>r.jsx(o,{});export{a as default};
